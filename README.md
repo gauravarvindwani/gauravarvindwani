@@ -22,7 +22,7 @@
   <br>
   🔬 I'm currently studying for my Bachelorate at Vishwakarma Institute of Technology, Department of Electronics and Telecommunications
   <br>
-  🎓 I graduated from Smita Patil Publis School
+  🎓 I graduated from Smita Patil Public School
   <br>
   💻 I love writing code and learn anythings about it
   <br>

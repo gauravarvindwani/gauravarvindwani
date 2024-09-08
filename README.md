@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravarvindwani.gauravarvindwani">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -17,8 +17,6 @@
   <br>
   <br>
   🔬 I'm currently studying for my Bachelorate at Vishwakarma Institute of Technology, Department of Electronics and Telecommunications
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
   <br>
   🎓 I graduated from Smita Patil Publis School
   <br>

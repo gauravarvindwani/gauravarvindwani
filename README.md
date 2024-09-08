@@ -12,7 +12,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/gaurav-wani-2581a322a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.https://leetcode.com/gaurav_582_leetcode/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
+  <code><a href="https://www.https://leetcode.com/gaurav_582_leetcode/" title="Leetcode Profile"><img width="22" src="images/LeetCode_logo_black.png"> Leetcode</a></code>
   <code><a href="https://www.instagram.com/gaueav.wani_582/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>

@@ -103,10 +103,10 @@
   <a align="left" href="https://github.com/gauravarvindwani/Intelligent-pdf-reader-app" title="Intelligent-pdf-reader-app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravarvindwani&repo=Intelligent-pdf-reader-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/gauravarvindwani/Pong-Game-" title="Pong-Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravarvindwani&repo=Pong-Game-&theme=react&border_color=61dafb&border_radius=10"></a>
 <br/><br/><br/><br/><br/><br/>
-<!-- <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gauravarvindwani/Pong-Game-" title="Pong-Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravarvindwani&repo=Pong-Game-&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> -->
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gauravarvindwani/SocialApp_Django" title="SocialApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="right" href="https://github.com/gauravarvindwani/Pong-Game-" title="Pong-Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravarvindwani&repo=Pong-Game-&theme=react&border_color=61dafb&border_radius=10"></a> -->
+</div>
 <!-- <br/><br/><br/><br/><br/><br/> -->
 
 <h4 align="center">
